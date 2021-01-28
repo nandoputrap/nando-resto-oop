@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+
+/* a:link, a:visited, a:active{
+    color: white;
+    text-decoration: none;
+} */
+/* img{
+    width: 300px;
+} */
+
+img {
+    width: 100%;
+}
+
+.menu-items{
+    width: 100%;
+}
